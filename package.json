@@ -1,0 +1,15 @@
+{
+  "name": "adcoin",
+  "version": "1.0.0",
+  "description": "adcoint for advertisements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaster",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.16.2",
+    "web3": "^0.20.4"
+  }
+}
