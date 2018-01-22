@@ -11,3 +11,9 @@ http://expressjs.com/en/starter/installing.html
 npm install web3 --save
 
 ```
+
+# git 
+
+git push https://yourid@github.com/itmoss/gritcoin.git/
+
+
