@@ -8,9 +8,6 @@ using namespace std;
 const int ALPHABET_SIZE = 26;
 
 
-
-
-
 struct TrieNode{
 
     TrieNode* next[ALPHABET_SIZE];
@@ -18,7 +15,7 @@ struct TrieNode{
     
     TrieNode(){
         fill(next, next + ALPHABET_SIZE, nullptr);
-        nextChild = false;
+        terminal = false;
     }
 
     ~TrieNode(){
