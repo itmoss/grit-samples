@@ -13,6 +13,17 @@ npm install web3 --save
 
 # git 
 
-git push https://yourid@github.com/itmoss/gritcoin.git/
+git push https://yourid@github.com/itmoss/gritcoin.git
 
 
+# Truffle
+
+- [debugging a smart contract](http://truffleframework.com/tutorials/debugging-a-smart-contract)
+
+```sh
+
+truffle compile
+truffle develop 
+migrate
+
+```
